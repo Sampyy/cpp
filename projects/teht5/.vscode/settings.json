@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "xtree": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp",
+        "map": "cpp",
+        "chrono": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
+}
